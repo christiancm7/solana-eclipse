@@ -17,7 +17,7 @@ export default function Home() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4 mb-32">
         {/* Buttons */}
         <Button
-          href="https://jupiter-terminal.dexscreener.com/?inputMint=3eJJX4MdtUnbS2aZLMQzc8Ht39ybK1rdPZcHssqE4Hyx&outputMint=So11111111111111111111111111111111111111112"
+          href="https://jupiter-terminal.dexscreener.com/?inputMint=CX5m6oZZftX4jbVh7spuHeRoyjwnCsNK868YpXcz2GDc&outputMint=So11111111111111111111111111111111111111112"
           target="_blank"
           variant="contained"
           sx={{
@@ -37,7 +37,7 @@ export default function Home() {
         </Button>
         <Button
           variant="contained"
-          href="https://raydium.io/swap/?outputCurrency=3eJJX4MdtUnbS2aZLMQzc8Ht39ybK1rdPZcHssqE4Hyx"
+          href="https://raydium.io/swap/?outputCurrency=CX5m6oZZftX4jbVh7spuHeRoyjwnCsNK868YpXcz2GDc"
           target="_blank"
           sx={{
             borderRadius: "10px", // Slightly curved edges
@@ -55,7 +55,7 @@ export default function Home() {
           Buy w/ Radium
         </Button>
         <Button
-          href="https://dexscreener.com/solana/hoxjqdomz63nks9158zwew6ajtlrc8lwfc9pwdmqmqkg"
+          href="https://dexscreener.com/solana/byuqkkpooqmxuhbq7x5qvfblxp1qergxs9tpighaee5j"
           target="_blank"
           variant="contained"
           sx={{
