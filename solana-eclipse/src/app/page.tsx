@@ -76,7 +76,7 @@ export default function Home() {
         </Button>
         <Button
           variant="contained"
-          href="https://twitter.com/solclipse"
+          href="https://twitter.com/thecryptoeG"
           target="_blank"
           sx={{
             borderRadius: "10px", // Slightly curved edges
