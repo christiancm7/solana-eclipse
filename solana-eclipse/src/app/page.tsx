@@ -75,7 +75,7 @@ export default function Home() {
         </Button>
         <Button
           variant="contained"
-          href="https://twitter.com/thecryptoeG"
+          href="https://twitter.com/christianjm710"
           target="_blank"
           sx={{
             borderRadius: "10px", // Slightly curved edges
